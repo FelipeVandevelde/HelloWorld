@@ -42,8 +42,8 @@ Agora adentrando as marcações de título temos a hashtag(#) para informar que 
 Podemos também criar uma lista numerada, não precisamos colocar as numerações de forma correta pois o próprio códgio consegue fazer a listagem numerica para nós, após colocarmos um número qualquer devemos dar um espaço após o ponto(.), com três espaços normais um tópico da lista numerada se torna um subtópico sendo listado com números romanos, segue lista:
 
 0. Primeiro item
-   0. Primeiro sub-item
-   0. Segundo sub-item
-   0. Terceiro sub-item
+   1. Primeiro sub-item
+   1. Segundo sub-item
+   1. Terceiro sub-item
 0. Segundo item
 0. Terceiro item
