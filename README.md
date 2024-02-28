@@ -56,3 +56,12 @@ Outra lista que temos a possibilidade de criar é a lista demarcada, para utiliz
    * Terceiro sub-item
 * Segundo item
 * Terceiro item
+
+Ou também podemos utlizar uma lista demarcada trocando asterisco por traço:
+
+- Primeiro item
+   - Primeiro sub-item
+   - Segundo sub-item
+   - Terceiro sub-item
+- Segundo item
+- Terceiro item
