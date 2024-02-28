@@ -20,11 +20,13 @@ Temos a opção também de ~~riscar~~ o texto, para utilizar essa função se é
 Com esse conhecimento previo temos a noção de cada um porém ainda não sabemos se há a possíbilidade de colocar um texto **negrito** em _italico_, a resposta é que sim, podemos _**misturar**_ marcações de forma simples, segue outras opções: _~~**mistura**~~_; ~~**mistura**~~; ~~__mistura__~~
 
 Temos a opção de adicionar separadores, esses são linhas horizontais que podem ser utilizados para uma divisão visual do texto, pode ser feito com três traços(-) ou com três asterisco(*)
+
 Linha traço:
 
 ---
-Cuidado, o texto acima da linha modelada por traços se torna um título de nível 2
+Cuidado, o texto acima da linha criada por traços se torna um título de nível 2 e a linha fica bem menor
 ---
+
 Linha asterisco:
 ***
 
