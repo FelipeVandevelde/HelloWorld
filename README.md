@@ -84,9 +84,28 @@ O uso de hyperlink é semelhante ao uso de imagem, sendo sua unica diferença a 
 [Acesse meu perfil no linkedin](https://www.linkedin.com/in/felipe-vandevelde-a54a81266/)
 
 Vamos rever a utilização de tabelas, na linguagem Markdown a marcação das tabelas funciona da seguinte forma:
-colunas divididas por uma barra vertical (|), para identificar que a linha 
+colunas divididas por um pipe barra vertical (|), quebra de linha, três traços para cada coluna sendo divididos também pelas barras verticais, quebra de linha e por fim os valores de cada coluna sendo dividido por barras verticais.
+
 Coluna1|Coluna2|Coluna3
-//----|----|----
+---|---|---
 Valor1|Valor2|Valor3
 Valor1|Valor2|Valor3
 
+Normalmente há um padrão de texto que é utilizado quando se tem uma escrita de código, para acionar ele utilizamos a crase(\`), na utilização de código solto apenas uma crase serve porém para trechos de programas podemos criar um bloco com três crases.
+Exemplo:
+Olá todos tenho dificuldade em compreender o comando `.codigoValue()`
+
+Olá a todos, tive um problema na minha resolução e gostaria de saber se alguém conseguiria me ajudar.
+```
+static void Main(string[] args) { 
+   string nome, comissao;
+   double salario, vendas;
+   
+   nome = Console.ReadLine();
+   salario = Convert.ToDouble(Console.ReadLine());
+   vendas = Convert.ToDouble(Console.ReadLine());
+   comissao = salario*venda
+   Console.WriteLine(comissao)
+}
+
+```
