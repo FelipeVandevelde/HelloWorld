@@ -76,3 +76,6 @@ Imagem de 400px:
 
 Imagem de 200px:
 ![GitHubLogo_200](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/387bf453-1562-4185-af7d-96ebe0d4eb71)
+
+Imagem de 100px:
+![GitHubLogo_100](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/1570e651-47c0-44bd-99b1-536622b3d8a0)
