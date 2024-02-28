@@ -86,7 +86,7 @@ O uso de hyperlink é semelhante ao uso de imagem, sendo sua unica diferença a 
 Vamos rever a utilização de tabelas, na linguagem Markdown a marcação das tabelas funciona da seguinte forma:
 colunas divididas por uma barra vertical (|), para identificar que a linha 
 Coluna1|Coluna2|Coluna3
-----|----|----
+//----|----|----
 Valor1|Valor2|Valor3
 Valor1|Valor2|Valor3
 
