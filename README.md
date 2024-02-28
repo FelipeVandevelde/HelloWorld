@@ -21,6 +21,7 @@ Com esse conhecimento previo temos a noção de cada um porém ainda não sabemo
 
 Temos a opção de adicionar separadores, esses são linhas horizontais que podem ser utilizados para uma divisão visual do texto, pode ser feito com três traços(-) ou com três asterisco(*)
 Linha traço:
+
 ---
 Linha asterisco:
 ***
