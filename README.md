@@ -66,16 +66,25 @@ Ainda falando sobre listas temos a possibilidade de criar uma lista de tarefas, 
 - [ ] Terminar faculdade
 - [ ] Se tornar um programador muito dahora
 
-Para o uso de imagem o recomentado é utilizar imagens pequenas, sendo o ideal imagens com larguras no maximo 400px a 500px.
+Para o uso de imagem o recomentado é utilizar imagens pequenas, sendo o ideal imagens com larguras no maximo 400px a 500px, para colocar uma imagem é preciso primeiro colocar exclamação(!), depois abrir e fechar colchete com o nome da imagem e por fim abre e fecha parênteses com o link da imagem.
 
-![GitHubLogo](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/0b0387ce-a337-4927-899d-faf35810b261)
+![Imagem em 512px](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/0b0387ce-a337-4927-899d-faf35810b261)
 Imagem de 512px
 
-![GitHubLogo_400](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/b681a721-df96-48f4-bdf7-5425866ced11)
+![Imagem em 400px](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/b681a721-df96-48f4-bdf7-5425866ced11)
 Imagem de 400px
 
-![GitHubLogo_200](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/387bf453-1562-4185-af7d-96ebe0d4eb71)
+![Imagem em 200px](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/387bf453-1562-4185-af7d-96ebe0d4eb71)
 Imagem de 200px
 
-![GitHubLogo_100](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/1570e651-47c0-44bd-99b1-536622b3d8a0)
+![Imagem em 100px](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/1570e651-47c0-44bd-99b1-536622b3d8a0)
 Imagem de 100px
+
+O uso de hyperlink é semelhante ao uso de imagem, sendo sua unica diferença a exclamação no começo.
+[Acesse meu perfil no linkedin](https://www.linkedin.com/in/felipe-vandevelde-a54a81266/)
+
+Vamos rever a utilização de tabelas, na linguagem Markdown a marcação das tabelas funciona da seguinte forma:
+Coluna1|Coluna2|Coluna3
+----|----|----
+Valor1|Valor2|Valor3
+
