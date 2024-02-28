@@ -23,6 +23,7 @@ Agora adentrando as marcações de título temos a hashtag(#) para informar que 
 ## Título de nível 2 se utiliza duas hashtag!
 ### Título de nível 3 se utiliza três hashtag!
 
+
 Temos a opção de adicionar separadores, esses são linhas horizontais que podem ser utilizados para uma divisão visual do texto, pode ser feito com três traços(-) ou com três asterisco(*)
 Linha traço:
 ---
