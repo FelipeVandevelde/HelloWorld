@@ -40,9 +40,19 @@ Agora adentrando as marcações de título temos a hashtag(#) para informar que 
 ### Título de nível 3 se utiliza três hashtag!
 
 Podemos também criar uma lista numerada, não precisamos colocar as numerações de forma correta pois o próprio códgio consegue fazer a listagem numerica para nós, após colocarmos um número qualquer devemos dar um espaço após o ponto(.), com três espaços normais um tópico da lista numerada se torna um subtópico sendo listado com números romanos, segue lista:
+
 0. Primeiro item
    1. Primeiro sub-item
    1. Segundo sub-item
    1. Terceiro sub-item
 0. Segundo item
 0. Terceiro item
+
+Outra lista que temos a possibilidade de criar é a lista demarcada, para utilizar ela colocamos um asterisco e um espaço antes do item, para criar um sub-item adicionamos três espaços, segue lista:
+
+* Primeiro item
+   * Primeiro sub-item
+   * Segundo sub-item
+   * Terceiro sub-item
+* Segundo item
+* Terceiro item
