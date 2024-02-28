@@ -92,9 +92,11 @@ Valor1|Valor2|Valor3
 Valor1|Valor2|Valor3
 
 Normalmente há um padrão de texto que é utilizado quando se tem uma escrita de código, para acionar ele utilizamos a crase(\`), na utilização de código solto apenas uma crase serve porém para trechos de programas podemos criar um bloco com três crases.
-Exemplo:
+
+Exemplo de aplicação do código simples:
 Olá todos tenho dificuldade em compreender o comando `.codigoValue()`
 
+Exemplo de aplicação do bloco de código:
 Olá a todos, tive um problema na minha resolução e gostaria de saber se alguém conseguiria me ajudar.
 ```
 static void Main(string[] args) { 
@@ -107,5 +109,6 @@ static void Main(string[] args) {
    comissao = salario*venda
    Console.WriteLine(comissao)
 }
-
 ```
+
+Para adicionar emojis coloque o nome do emoji entre dois pontos(:) :smile:, para ver uma listagem de todos os emojis temos o [repositório com listagem dos emojis](https://github.com/ikatyang/emoji-cheat-sheet) feito pela ikatyang. 
