@@ -17,15 +17,19 @@ Para utilizarmos o _italico_ temos _duas_ opções, a primeira é utilizando ape
 
 Temos a opção também de ~~riscar~~ o texto, para utilizar essa função se é utilizado pares de til(~) no começo e no final do texto que deseja ficar ~~riscado~~.
 
-Agora adentrando as marcações de título temos a hashtag(#) para informar que estamos colocar um título, é nescessário que o texto tenha um espaço da hashtag para funcionar:
-
-# Título de nível 1 se utiliza uma hashtag!
-## Título de nível 2 se utiliza duas hashtag!
-### Título de nível 3 se utiliza três hashtag!
-
+Com esse conhecimento previo temos a noção de cada um porém ainda não sabemos se há a possíbilidade de colocar um texto **negrito** em _italico_, a resposta é que sim, podemos _**misturar**_ marcações de forma simples, segue outras opções: _~~**mistura**~~_; ~~**mistura**~~; ~~__mistura__~~
 
 Temos a opção de adicionar separadores, esses são linhas horizontais que podem ser utilizados para uma divisão visual do texto, pode ser feito com três traços(-) ou com três asterisco(*)
 Linha traço:
 ---
 Linha asterisco:
 ***
+
+
+
+Agora adentrando as marcações de título temos a hashtag(#) para informar que estamos colocar um título, é nescessário que o texto tenha um espaço da hashtag para funcionar:
+
+# Título de nível 1 se utiliza uma hashtag!
+## Título de nível 2 se utiliza duas hashtag!
+### Título de nível 3 se utiliza três hashtag!
+
