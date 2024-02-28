@@ -13,7 +13,7 @@ Assim como o HTML o Markdown é uma linguagem de marcação, criada com o objeti
 
 Para utilizarmos o **negrito** temos **duas** opções, a primeira é utilizando pares de asterisco(\*) no começo e no final do texto que quer colocar em **negrito**, outro modo de fazer isso é utilizando pares de sublinhas(\_) no começo e no final do texto que deseja ficar em **negrito**.
 
-Para utilizarmos o _italico_ temos _duas_ opções, a primeira é utilizando apenas um asterisco(* ) no começo e um no final do texto que quer colocar em *italico\*, outro modo de fazer isso é utilizando uma sublinhas(_ ) no começo e no final do texto que deseja ficar em \_italico_.
+Para utilizarmos o _italico_ temos _duas_ opções, a primeira é utilizando apenas um asterisco(* ) no começo e um no final do texto que quer colocar em *italico*, outro modo de fazer isso é utilizando uma sublinhas(_ ) no começo e no final do texto que deseja ficar em _italico_.
 
 Temos a opção também de ~~riscar~~ o texto, para utilizar essa função se é utilizado pares de til(~) no começo e no final do texto que deseja ficar ~~riscado~~.
 
@@ -22,3 +22,9 @@ Agora adentrando as marcações de título temos a hashtag(#) para informar que 
 # Título de nível 1 se utiliza uma hashtag!
 ## Título de nível 2 se utiliza duas hashtag!
 ### Título de nível 3 se utiliza três hashtag!
+
+Temos a opção de adicionar separadores, esses são linhas horizontais que podem ser utilizados para uma divisão visual do texto, pode ser feito com três traços(-) ou com três asterisco(*)
+Linha traço:
+---
+Linha asterisco:
+***
