@@ -66,7 +66,7 @@ Ainda falando sobre listas temos a possibilidade de criar uma lista de tarefas, 
 - [ ] Terminar faculdade
 - [ ] Se tornar um programador muito dahora
 
-Para o uso de imagem o recomentado é utilizar imagens pequenas, sendo o ideal imagens com no maximo 400px a 500px.
+Para o uso de imagem o recomentado é utilizar imagens pequenas, sendo o ideal imagens com larguras no maximo 400px a 500px.
 
 ![GitHubLogo](https://github.com/FelipeVandevelde/HelloWorld/assets/148922578/0b0387ce-a337-4927-899d-faf35810b261)
 Imagem de 512px
