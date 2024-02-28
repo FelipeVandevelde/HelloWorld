@@ -40,6 +40,7 @@ Agora adentrando as marcações de título temos a hashtag(#) para informar que 
 ### Título de nível 3 se utiliza três hashtag!
 
 Podemos também criar uma lista numerada, não precisamos colocar as numerações de forma correta pois o próprio códgio consegue fazer a listagem numerica para nós, outro ponto é que com três espaços normais um tópico da lista numerada se torna um subtópico sendo listado com números romanos, segue lista:
+
 0.Primeiro item
 0.Primeiro sub-item
 0.Segundo sub-item
