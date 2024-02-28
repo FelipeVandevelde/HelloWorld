@@ -1,13 +1,5 @@
 # HelloWorld
 
-Primeiro repositório do curso Gith e GitHub
-
-Repositório local e repositório remoto sendo testados.
-
-Linha sendo adicionada por meio do próprio site do GitHub!!
-
-alteração dentro do not
-
 Aprendendo a utilização de **marcação** dentro do _Markdown_.
 Assim como o HTML o Markdown é uma linguagem de marcação, criada com o objetivo de simplificar sua leitura, já que a mesma não é baseada em código como o HTML.
 
@@ -65,3 +57,10 @@ Ou também podemos utlizar uma lista demarcada trocando asterisco por traço:
    - Terceiro sub-item
 - Segundo item
 - Terceiro item
+
+Ainda falando sobre listas temos a possibilidade de criar uma lista de tarefas, primeiro devemos colocar um til(~) e dar um espaço, terminando isso vamos abrir e fechar chaves, para as tarefas não concluídas devemos deixar apenas um espaço dentro das chaves, para tarefas concluídas devemos colocar um X, segue um exemplo:
+
+- [X] Estudar git e github
+- [X] Criar uma conta
+- [X] Criar e modelar um repositório
+- [ ] Se tornar um programador muito dahora
