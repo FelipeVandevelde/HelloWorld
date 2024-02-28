@@ -23,6 +23,8 @@ Temos a opção de adicionar separadores, esses são linhas horizontais que pode
 Linha traço:
 
 ---
+Cuidado, o texto acima da linha modelada por traços se torna um título de nível 2
+---
 Linha asterisco:
 ***
 
