@@ -120,3 +120,7 @@ Para utilizar citações colocamos o sinal maior que(\>) e o texto que gostariam
 
 > Este é um exemplo de como a citação fica no texto!
 
+
+***
+
+Este foi um PDF de teste para aplicar tudo que foi apresentado nas [video-aulas](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=sN-hw2A7MAFPQhul) do curso em video, ele também disponibilizou um [manual em PDF](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf).
