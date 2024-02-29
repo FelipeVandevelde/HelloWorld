@@ -17,11 +17,12 @@ Linha traço:
 
 ---
 
-## Cuidado, o texto acima da linha criada por traços se torna um título de nível 2 e a linha fica se parecendo mais com um sublinhado
+Cuidado, o texto acima da linha criada por traços se torna um título de nível 2 e a linha fica se parecendo mais com um sublinhado
+---
 
 Linha asterisco:
 
----
+***
 
 Agora adentrando as marcações de título temos a hashtag(#) para informar que estamos colocar um título, é nescessário que o texto tenha um espaço da hashtag para funcionar:
 
@@ -111,4 +112,11 @@ static void Main(string[] args) {
 }
 ```
 
-Para adicionar emojis coloque o nome do emoji entre dois pontos(:) :smile:, para ver uma listagem de todos os emojis temos o [repositório com listagem dos emojis](https://github.com/ikatyang/emoji-cheat-sheet) feito pela ikatyang. 
+Para adicionar emojis coloque o nome do emoji entre dois pontos(:) :smile:, para ver uma listagem de todos os emojis temos o [repositório com listagem dos emojis](https://github.com/ikatyang/emoji-cheat-sheet) feito pela ikatyang, outra alternativa é entrar no site [emojipedia](https://emojipedia.org/pt) para buscar e copiar o emoji desejado. 
+
+Podemos marcar pessoas e para isso basta colocar um @ e em seguida o nome do usuário.
+
+Para utilizar citações colocamos o sinal maior que(\>) e o texto que gostariamos de citar ou responder(no caso de uma issue).
+
+> Este é um exemplo de como a citação fica no texto!
+
